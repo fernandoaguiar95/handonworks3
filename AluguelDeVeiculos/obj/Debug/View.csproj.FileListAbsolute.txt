@@ -1,0 +1,12 @@
+C:\Users\Sufe\source\repos\AluguelDeVeiculos\AluguelDeVeiculos\bin\Debug\AluguelDeVeiculos.exe.config
+C:\Users\Sufe\source\repos\AluguelDeVeiculos\AluguelDeVeiculos\bin\Debug\AluguelDeVeiculos.exe
+C:\Users\Sufe\source\repos\AluguelDeVeiculos\AluguelDeVeiculos\bin\Debug\AluguelDeVeiculos.pdb
+C:\Users\Sufe\source\repos\AluguelDeVeiculos\AluguelDeVeiculos\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\Sufe\source\repos\AluguelDeVeiculos\AluguelDeVeiculos\obj\Debug\AluguelDeVeiculos.Form1.resources
+C:\Users\Sufe\source\repos\AluguelDeVeiculos\AluguelDeVeiculos\obj\Debug\AluguelDeVeiculos.Properties.Resources.resources
+C:\Users\Sufe\source\repos\AluguelDeVeiculos\AluguelDeVeiculos\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\Sufe\source\repos\AluguelDeVeiculos\AluguelDeVeiculos\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Sufe\source\repos\AluguelDeVeiculos\AluguelDeVeiculos\obj\Debug\AluguelDeVeiculos.exe
+C:\Users\Sufe\source\repos\AluguelDeVeiculos\AluguelDeVeiculos\obj\Debug\AluguelDeVeiculos.pdb
+C:\Users\Sufe\source\repos\AluguelDeVeiculos\AluguelDeVeiculos\obj\Debug\AluguelDeVeiculos.Form2.resources
+C:\Users\Sufe\source\repos\AluguelDeVeiculos\AluguelDeVeiculos\obj\Debug\AluguelDeVeiculos.Form3.resources
