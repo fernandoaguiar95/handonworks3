@@ -5,10 +5,6 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View", "AluguelDeVeiculos\View.csproj", "{F43B9058-2EC3-4D7F-963F-0E8495B897EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller", "Controller\Controller.csproj", "{49C52CF0-2F84-40C1-811A-05D0DB9DB61E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{45AC98B8-003F-48F2-A2E7-5C03AD2E85D9}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,14 +15,6 @@ Global
 		{F43B9058-2EC3-4D7F-963F-0E8495B897EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F43B9058-2EC3-4D7F-963F-0E8495B897EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F43B9058-2EC3-4D7F-963F-0E8495B897EB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{49C52CF0-2F84-40C1-811A-05D0DB9DB61E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{49C52CF0-2F84-40C1-811A-05D0DB9DB61E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{49C52CF0-2F84-40C1-811A-05D0DB9DB61E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{49C52CF0-2F84-40C1-811A-05D0DB9DB61E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{45AC98B8-003F-48F2-A2E7-5C03AD2E85D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{45AC98B8-003F-48F2-A2E7-5C03AD2E85D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{45AC98B8-003F-48F2-A2E7-5C03AD2E85D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{45AC98B8-003F-48F2-A2E7-5C03AD2E85D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
